@@ -9,7 +9,7 @@ from google.genai.errors import APIError
 # ==============================
 # 🔑 ENTER YOUR GEMINI API KEY HERE
 # ==============================
-API_KEY = "AIzaSyCRFtL_2s1_KQjf76WeRbce0JUEotAnVG0"  # <-- Ensure valid
+API_KEY = "API KEY"  # <-- Ensure valid
 
 # API details
 MODEL = "gemini-2.5-flash"
@@ -144,3 +144,4 @@ def main():
 # ==============================
 if __name__ == "__main__":
     main()
+
